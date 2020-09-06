@@ -1,0 +1,1503 @@
+
+
+
+
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+<head>
+    <meta charset="utf-8">
+    <meta name="title" content="New and Popular Design Projects | Coroflot" />
+    <meta name="url" content="https://www.coroflot.com/projects" /> 
+    <meta name="description" content="Featured design projects from the portfolios of top designers at Coroflot. Great in-house, student and freelance design work." />
+    <meta name="image" content="https://s3.amazonaws.com/s3files.coroflot.com/images/coroflot_meta_img.png" />
+    <meta name="site_name" content="Coroflot" />
+
+        <meta property="og:title" content="New and Popular Design Projects | Coroflot" />
+        <meta property="og:url" content="https://www.coroflot.com/projects" />         <meta property="og:description" content="Featured design projects from the portfolios of top designers at Coroflot. Great in-house, student and freelance design work." />
+        <meta property="og:image" content="https://s3.amazonaws.com/s3files.coroflot.com/images/coroflot_meta_img.png" />
+        <meta property="og:site_name" content="Coroflot" />
+    <meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, width=device-width, height=device-height" />
+
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/images/page_icons/apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/page_icons/apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/page_icons/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/page_icons/apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="/images/page_icons/apple-touch-icon-60x60.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/images/page_icons/apple-touch-icon-120x120.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="/images/page_icons/apple-touch-icon-76x76.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/images/page_icons/apple-touch-icon-152x152.png" />
+    <link rel="icon" type="image/png" href="/images/page_icons/favicon-196x196.png" sizes="196x196" />
+    <link rel="icon" type="image/png" href="/images/page_icons/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/png" href="/images/page_icons/favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="/images/page_icons/favicon-16x16.png" sizes="16x16" />
+    <link rel="icon" type="image/png" href="/images/page_icons/favicon-128.png" sizes="128x128" />
+    <meta name="application-name" content="&nbsp;" />
+    <meta name="msapplication-TileColor" content="#FFFFFF" />
+    <meta name="msapplication-TileImage" content="/images/page_icons/mstile-144x144.png" />
+    <meta name="msapplication-square70x70logo" content="/images/page_icons/mstile-70x70.png" />
+    <meta name="msapplication-square150x150logo" content="/images/page_icons/mstile-150x150.png" />
+    <meta name="msapplication-wide310x150logo" content="/images/page_icons/mstile-310x150.png" />
+    <meta name="msapplication-square310x310logo" content="/images/page_icons/mstile-310x310.png" />
+
+
+    
+    <title>Coroflot — Design Jobs &amp; Portfolios</title>
+    <!-- javascript -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    
+    <script src="https://code.jquery.com/ui/1.10.3/jquery-ui.min.js"></script>
+    
+    <script data-ad-client="ca-pub-8281208842331302" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    
+    <!-- page js -->
+    <!--[if IE]><script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <!--[if lte IE 8]><script src="https://www.coroflot.com/javascripts/excanvas.min.js"></script><![endif]-->
+    <!-- GOOGLE AD MANAGER JAVASCRIPT -->
+    
+    
+    
+    
+
+    
+    
+    <link rel="stylesheet" media="screen" href="/stylesheets/modern_layout.min.css?v=275" />
+
+    <!--[if IE 8]><meta http-equiv="X-UA-Compatible" content="IE=7" /><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"2159be6bbd","applicationID":"5698230","transactionName":"ZlNXN0RVX0UCUUFZV18ZeDV1G2FEDFhQU0xCdVoNQkZeWg9XRx9RX1JQGw==","queueTime":0,"applicationTime":156,"ttGuid":"41A6460E512C58C2","agent":""}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Uw8OU1VXGwYGXVlQBAE=",licenseKey:"2159be6bbd",applicationID:"5698230"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var i,o=t("ee"),a=t(22),c={};try{i=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,i.indexOf("dev")!==-1&&(c.dev=!0),i.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&o.on("internal-error",function(t){r(t.stack)}),c.dev&&o.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,c){try{p?p-=1:i(c||new UncaughtException(t,e,n),!0)}catch(f){try{o("ierr",[f,s.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function i(t,e){var n=e?null:s.now();o("err",[t,n])}var o=t("handle"),a=t(23),c=t("ee"),s=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(9),t(8),"addEventListener"in window&&t(5),s.xhrWrappable&&t(10),d=!0)}c.on("fn-start",function(t,e,n){d&&(p+=1)}),c.on("fn-err",function(t,e,n){d&&!n[l]&&(f(n,l,function(){return!0}),this.thrown=!0,i(n))}),c.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),c.on("internal-error",function(t){o("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var i=t("ee"),o=t("handle"),a=t(9),c=t(8),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",g="pushState",y=t("loader");y.features.stn=!0,t(7),"addEventListener"in window&&t(5);var x=NREUM.o.EV;i.on(m,function(t,e){var n=t[0];n instanceof x&&(this.bstStart=y.now())}),i.on(w,function(t,e){var n=t[0];n instanceof x&&o("bst",[n,e,this.bstStart,y.now()])}),a.on(m,function(t,e,n){this.bstStart=y.now(),this.bstType=n}),a.on(w,function(t,e){o(v,[e,this.bstStart,y.now(),this.bstType])}),c.on(m,function(){this.bstStart=y.now()}),c.on(w,function(t,e){o(v,[e,this.bstStart,y.now(),"requestAnimationFrame"])}),i.on(g+p,function(t){this.time=y.now(),this.startPath=location.pathname+location.hash}),i.on(g+h,function(t){o("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){o(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){o(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&i(e)}function i(t){c.inPlace(t,[u,d],"-",o)}function o(t,e){return t[1]}var a=t("ee").get("events"),c=t("wrap-function")(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(i(window),i(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=o(arguments),e={};i.emit(n+"before-start",[t],e);var a;e[m]&&e[m].dt&&(a=e[m].dt);var c=r.apply(this,t);return i.emit(n+"start",[t,a],c),c.then(function(t){return i.emit(n+"end",[null,t],c),t},function(t){throw i.emit(n+"end",[t],c),t})})}var i=t("ee").get("fetch"),o=t(23),a=t(22);e.exports=i;var c=window,s="fetch-",f=s+"body-",u=["arrayBuffer","blob","json","text","formData"],d=c.Request,l=c.Response,p=c.fetch,h="prototype",m="nr@context";d&&l&&p&&(a(u,function(t,e){r(d[h],e,f),r(l[h],e,f)}),r(c,"fetch",s),i.on(s+"end",function(t,e){var n=this;if(e){var r=e.headers.get("content-length");null!==r&&(n.rxSize=r),i.emit(s+"done",[null,e],n)}else i.emit(s+"done",[t],n)}))},{}],7:[function(t,e,n){var r=t("ee").get("history"),i=t("wrap-function")(r);e.exports=r;var o=window.history&&window.history.constructor&&window.history.constructor.prototype,a=window.history;o&&o.pushState&&o.replaceState&&(a=o),i.inPlace(a,["pushState","replaceState"],"-")},{}],8:[function(t,e,n){var r=t("ee").get("raf"),i=t("wrap-function")(r),o="equestAnimationFrame";e.exports=r,i.inPlace(window,["r"+o,"mozR"+o,"webkitR"+o,"msR"+o],"raf-"),r.on("raf-start",function(t){t[0]=i(t[0],"fn-")})},{}],9:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function i(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var o=t("ee").get("timer"),a=t("wrap-function")(o),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=o,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),o.on(s+u,r),o.on(c+u,i)},{}],10:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function i(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,g,"fn-",c)}function o(t){y.push(t),h&&(b?b.then(a):w?w(a):(E=-E,R.data=E))}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t("wrap-function")(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",g=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var x=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(v,i,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),o(e)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!w&&!m){var E=1,R=document.createTextNode(E);new h(a).observe(R,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],11:[function(t,e,n){function r(t){if(!c(t))return null;var e=window.NREUM;if(!e.loader_config)return null;var n=(e.loader_config.accountID||"").toString()||null,r=(e.loader_config.agentID||"").toString()||null,f=(e.loader_config.trustKey||"").toString()||null;if(!n||!r)return null;var h=p.generateSpanId(),m=p.generateTraceId(),w=Date.now(),v={spanId:h,traceId:m,timestamp:w};return(t.sameOrigin||s(t)&&l())&&(v.traceContextParentHeader=i(h,m),v.traceContextStateHeader=o(h,w,n,r,f)),(t.sameOrigin&&!u()||!t.sameOrigin&&s(t)&&d())&&(v.newrelicHeader=a(h,m,w,n,r,f)),v}function i(t,e){return"00-"+e+"-"+t+"-01"}function o(t,e,n,r,i){var o=0,a="",c=1,s="",f="";return i+"@nr="+o+"-"+c+"-"+n+"-"+r+"-"+t+"-"+a+"-"+s+"-"+f+"-"+e}function a(t,e,n,r,i,o){var a="btoa"in window&&"function"==typeof window.btoa;if(!a)return null;var c={v:[0,1],d:{ty:"Browser",ac:r,ap:i,id:t,tr:e,ti:n}};return o&&r!==o&&(c.d.tk=o),btoa(JSON.stringify(c))}function c(t){return f()&&s(t)}function s(t){var e=!1,n={};if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(n=NREUM.init.distributed_tracing),t.sameOrigin)e=!0;else if(n.allowed_origins instanceof Array)for(var r=0;r<n.allowed_origins.length;r++){var i=h(n.allowed_origins[r]);if(t.hostname===i.hostname&&t.protocol===i.protocol&&t.port===i.port){e=!0;break}}return e}function f(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&!!NREUM.init.distributed_tracing.enabled}function u(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&!!NREUM.init.distributed_tracing.exclude_newrelic_header}function d(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&NREUM.init.distributed_tracing.cors_use_newrelic_header!==!1}function l(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&!!NREUM.init.distributed_tracing.cors_use_tracecontext_headers}var p=t(19),h=t(13);e.exports={generateTracePayload:r,shouldGenerateTrace:c}},{}],12:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<l;r++)t.removeEventListener(d[r],this.listener,!1);e.aborted||(n.duration=a.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==e.status&&(e.status=0):o(this,t),n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime]))}}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.parsedOrigin=s(e),t.sameOrigin=t.parsedOrigin.sameOrigin}function o(t,e){t.params.status=e.status;var n=w(e,t.lastSize);if(n&&(t.metrics.rxSize=n),t.sameOrigin){var r=e.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(13),f=t(11).generateTracePayload,u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(17),m=t(16),w=t(14),v=window.XMLHttpRequest;a.features.xhr=!0,t(10),t(6),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,e.loadCaptureCalled=!1,t.addEventListener("load",function(n){o(e,t)},!1),h&&(h>34||h<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var n=f(this.parsedOrigin);if(n){var r=!1;n.newrelicHeader&&(e.setRequestHeader("newrelic",n.newrelicHeader),r=!0),n.traceContextParentHeader&&(e.setRequestHeader("traceparent",n.traceContextParentHeader),n.traceContextStateHeader&&e.setRequestHeader("tracestate",n.traceContextStateHeader),r=!0),r&&(this.dt=n)}}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],i=this;if(n&&r){var o=m(r);o&&(n.txSize=o)}this.startTime=a.now(),this.listener=function(t){try{"abort"!==t.type||i.loadCaptureCalled||(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<l;c++)e.addEventListener(d[c],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof v&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof v&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof v&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)}),u.on("fetch-before-start",function(t){function e(t,e){var n=!1;return e.newrelicHeader&&(t.set("newrelic",e.newrelicHeader),n=!0),e.traceContextParentHeader&&(t.set("traceparent",e.traceContextParentHeader),e.traceContextStateHeader&&t.set("tracestate",e.traceContextStateHeader),n=!0),n}var n,r=t[1]||{};"string"==typeof t[0]?n=t[0]:t[0]&&t[0].url&&(n=t[0].url),n&&(this.parsedOrigin=s(n),this.sameOrigin=this.parsedOrigin.sameOrigin);var i=f(this.parsedOrigin);if(i&&(i.newrelicHeader||i.traceContextParentHeader))if("string"==typeof t[0]){var o={};for(var a in r)o[a]=r[a];o.headers=new Headers(r.headers||{}),e(o.headers,i)&&(this.dt=i),t.length>1?t[1]=o:t.push(o)}else t[0]&&t[0].headers&&e(t[0].headers,i)&&(this.dt=i)})}},{}],13:[function(t,e,n){var r={};e.exports=function(t){if(t in r)return r[t];var e=document.createElement("a"),n=window.location,i={};e.href=t,i.port=e.port;var o=e.href.split("://");!i.port&&o[1]&&(i.port=o[1].split("/")[0].split("@").pop().split(":")[1]),i.port&&"0"!==i.port||(i.port="https"===o[0]?"443":"80"),i.hostname=e.hostname||n.hostname,i.pathname=e.pathname,i.protocol=o[0],"/"!==i.pathname.charAt(0)&&(i.pathname="/"+i.pathname);var a=!e.protocol||":"===e.protocol||e.protocol===n.protocol,c=e.hostname===document.domain&&e.port===n.port;return i.sameOrigin=a&&(!e.hostname||c),"/"===i.pathname&&(r[t]=i),i}},{}],14:[function(t,e,n){function r(t,e){var n=t.responseType;return"json"===n&&null!==e?e:"arraybuffer"===n||"blob"===n||"json"===n?i(t.response):"text"===n||""===n||void 0===n?i(t.responseText):void 0}var i=t(16);e.exports=r},{}],15:[function(t,e,n){function r(){}function i(t,e,n){return function(){return o(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var o=t("handle"),a=t(22),c=t(23),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=i(l+e,!0,"api")}),u.addPageAction=i(l+"addPageAction",!0),u.setCurrentRouteName=i(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((i?"":"no-")+"fn-start",[f.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw s.emit("fn-err",[arguments,this,t],n),t}finally{s.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=i(p+e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),o("err",[t,f.now(),!1,e])}},{}],16:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],17:[function(t,e,n){var r=0,i=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);i&&(r=+i[1]),e.exports=r},{}],18:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?d("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&d("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();n.length>0&&d("lcp",[n[n.length-1]])}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||d("cls",[t])})}function a(t){if(t instanceof h&&!w){var e=Math.round(t.timeStamp),n={type:t.type};e<=l.now()?n.fid=l.now()-e:e>l.offset&&e<=Date.now()?(e-=l.offset,n.fid=l.now()-e):e=l.now(),w=!0,d("timing",["fi",e,n])}}function c(t){d("pageHide",[l.now(),t])}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var s,f,u,d=t("handle"),l=t("loader"),p=t(21),h=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){s=new PerformanceObserver(r);try{s.observe({entryTypes:["paint"]})}catch(m){}f=new PerformanceObserver(i);try{f.observe({entryTypes:["largest-contentful-paint"]})}catch(m){}u=new PerformanceObserver(o);try{u.observe({type:"layout-shift",buffered:!0})}catch(m){}}if("addEventListener"in document){var w=!1,v=["click","keydown","mousedown","pointerdown","touchstart"];v.forEach(function(t){document.addEventListener(t,a,!1)})}p(c)}},{}],19:[function(t,e,n){function r(){function t(){return e?15&e[n++]:16*Math.random()|0}var e=null,n=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(e=r.getRandomValues(new Uint8Array(31)));for(var i,o="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",c=0;c<o.length;c++)i=o[c],"x"===i?a+=t().toString(16):"y"===i?(i=3&t()|8,a+=i.toString(16)):a+=i;return a}function i(){return a(16)}function o(){return a(32)}function a(t){function e(){return n?15&n[r++]:16*Math.random()|0}var n=null,r=0,i=window.crypto||window.msCrypto;i&&i.getRandomValues&&Uint8Array&&(n=i.getRandomValues(new Uint8Array(31)));for(var o=[],a=0;a<t;a++)o.push(e().toString(16));return o.join("")}e.exports={generateUuid:r,generateSpanId:i,generateTraceId:o}},{}],20:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,s=c.match(a);s&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=s[1])}e.exports={agent:i,version:o,match:r}},{}],21:[function(t,e,n){function r(t){function e(){t(a&&document[a]?document[a]:document[i]?"hidden":"visible")}"addEventListener"in document&&o&&document.addEventListener(o,e,!1)}e.exports=r;var i,o,a;"undefined"!=typeof document.hidden?(i="hidden",o="visibilitychange",a="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",o="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",o="webkitvisibilitychange",a="webkitVisibilityState")},{}],22:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],23:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],24:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?s(t,c,o):o()}function n(n,r,i,o){if(!l.aborted||o){t&&t(n,r,i);for(var a=e(i),c=m(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[y[n]];return d&&d.push([x,n,r,a]),a}}function p(t,e){g[t]=m(t).concat(e)}function h(t,e){var n=g[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return g[t]||[]}function w(t){return d[t]=d[t]||i(n)}function v(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var g={},y={},x={on:p,addEventListener:p,removeEventListener:h,emit:n,get:w,listeners:m,context:e,buffer:v,abort:a,aborted:!1};return x}function o(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(22),u={},d={},l=e.exports=i();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!E++){var t=b.info=NREUM.info,e=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(y,function(e,n){t[e]||(t[e]=n)});var n=a();s("mark",["onload",n+b.offset],null,"api"),s("timing",["load",n]);var r=p.createElement("script");r.src="https://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===p.readyState&&o()}function o(){s("mark",["domContent",a()+b.offset],null,"api")}function a(){return R.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-b.offset}var c=(new Date).getTime(),s=t("handle"),f=t(22),u=t("ee"),d=t(20),l=window,p=l.document,h="addEventListener",m="attachEvent",w=l.XMLHttpRequest,v=w&&w.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:w,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var g=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1177.min.js"},x=w&&v&&v[h]&&!/CriOS/.test(navigator.userAgent),b=e.exports={offset:c,now:a,origin:g,features:{},xhrWrappable:x,userAgent:d};t(15),t(18),p[h]?(p[h]("DOMContentLoaded",o,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",i),l[m]("onload",r)),s("mark",["firstbyte",c],null,"api");var E=0,R=t(24)},{}],"wrap-function":[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var i=t("ee"),o=t(23),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,i){function nrWrapper(){var r,a,c,s;try{a=this,r=o(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,i],c])}u(e+"start",[r,a,i],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,i,o){i||(i="");var a,c,s,f="-"===i.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+i:i,o,c))}function u(n,r,i){if(!s||e){var o=s;s=!0;try{t.emit(n,r,i,e)}catch(a){l([a,n,r,i])}s=o}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var i in t)c.call(t,i)&&(e[i]=t[i]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=i),n.inPlace=f,n.flag=a,n}},{}]},{},["loader",2,12,4,3]);</script><![endif]-->
+    
+
+    <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+    <script>
+        window.googletag = window.googletag || { cmd: [] };
+        googletag.cmd.push(function () {
+            googletag.defineSlot('/3452054/Coroflot_sidebar_300x600', [300, 600], 'div-gpt-ad-1584372015621-0').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.enableServices();
+        });
+    </script>
+
+</head>
+<!--[if lte IE 6]><body class="ie ie6"><![endif]-->
+<!--[if IE 7]><body class="ie ie7"><![endif]-->
+<!--[if IE 8]><body class="ie ie8"><![endif]-->
+<!--[if IE 9]><body class="ie ie9"><![endif]-->
+<!--[if !IE]>-->
+<body>
+    <script src="/javascripts/library/extensions.min.js?v=275"></script>
+    <script>
+        function do_when(predicate, action, timeout_step) {
+            if (predicate()) {
+                action();
+            } else {
+                setTimeout(do_when, timeout_step, predicate, action, timeout_step);
+            }
+        };
+    </script>
+    
+    <!--<![endif]-->
+    <div id="coroflot" class="portfolios listing  full_width projects fw_fluid modern_layout project_modal_handling">
+
+
+
+
+
+        <header id="head">
+            <div class="c">
+                
+                <div id="h_logo"><a href="/">Coroflot</a></div>
+                <nav class="secondary  ">
+                    
+                    
+    <ul>
+        <li><a data-signup-init="true" href="/signup">Sign Up</a></li>
+        <li><a href="/login">Sign In</a></li>
+        
+        <li><a class="nav_btn" href="/hire-designers?utm_source=header">Hire Designers</a></li>
+    </ul>
+
+<script>
+    $(function () {
+        $("#logout_intercomm").live("click", function (e) {
+            e.preventDefault();
+            if (window.Intercom != undefined && Intercom != null) {
+                Intercom('shutdown');
+                Intercom('boot', { app_id: "e6miy0uc" });
+            }
+            Cookie.erase("coroflotlogin");
+            window.location = "/logout";
+        })
+
+        console.log("0");
+    });
+</script>
+                </nav>
+            </div>
+            <div id="primary_nav_wrapper">
+                <nav class="main_nav">
+                    
+<ul>
+    <li id="design_jobs"><a href="/design-jobs">Design Jobs</a></li>
+
+    <li id="pro_search"><a href="/hire-designers?utm_source=header">Pro Search</a></li>
+    <li id="pro_search"><a href="/designers">Designers</a></li>
+    <li class="current" id="community"><a href="/projects">Projects</a></li>
+    <li id="salary_guide"><a href="/designsalaryguide">Salaries</a></li>
+
+</ul>
+
+
+                </nav>
+            </div>
+
+            <div id="mobile_message_go" data-messages-go="" class="hide "><span class="coroflot_icons">e</span><span id="message_count_total" class="hide"></span></div>
+
+
+            <div class="burger_user_menu">
+
+                <div id="burger_time" class="give_me_a_menu">
+
+                </div>
+
+                
+                <nav>
+                    <ul class="mobile_nav_section">
+                        <li><a data-signup-init="true" href="/signup">Sign Up</a></li>
+                        <li><a href="/login">Sign In</a></li>
+                        
+                        <li><a class="nav_btn" href="/hire-designers?utm_source=header">Post A Job</a></li>
+                    </ul>
+
+
+
+
+                </nav>
+
+            </div>
+
+
+        </header>
+        <div id="mobile_push_top_regulator">&nbsp;</div>
+        <div id="mobile_main_nav" class="">
+            <nav class="main_nav">
+                
+<ul>
+    <li id="design_jobs"><a href="/design-jobs">Design Jobs</a></li>
+
+    <li id="pro_search"><a href="/hire-designers?utm_source=header">Pro Search</a></li>
+    <li id="pro_search"><a href="/designers">Designers</a></li>
+    <li class="current" id="community"><a href="/projects">Projects</a></li>
+    <li id="salary_guide"><a href="/designsalaryguide">Salaries</a></li>
+
+</ul>
+
+
+            </nav>
+
+
+
+
+        </div>
+
+
+
+        <div id="body" class="c cols">
+            
+
+
+
+
+
+
+
+    <div class="top_cap darkness_layer projects_feed hide_top_lv_pc_mo" style="background-image: url(https://s3.amazonaws.com/s3files.coroflot.com/images/top_bar_images/large_images/dion_pender.jpg);">
+            <h1>Projects</h1>
+        <div class="image_credit_block">
+                <a href="/dionpender">
+                    <img class="owner_avatar" src="https://s3.amazonaws.com/s3files.coroflot.com/images/top_bar_images/avatars/dion_pender_avatar.jpg" />
+                    <div class="owner_name">Dion Pender</div>
+                </a>
+        </div>
+    </div>
+
+
+
+
+
+
+
+<section id="search_sub_bar" class="tl_projects">
+    <div id="list_type_select" class="filters-horiz">
+
+        <ul id="filters_sort_by" tag="sort_by">
+            <li data-history-url="/projects" data-history-title="New and Popular Design Projects | Coroflot" data-history-page="popular" id="popular_search" class=" active " data-number-of-days="14"><a href="#" id="2" tag="2">Popular</a></li>
+            <li data-history-url="/projects/staff-picks" data-history-title="Staff Picks Design Projects | Coroflot" data-history-page="staff_picks" class=""><a href="#" id="true" tag="true">Staff Picks</a></li>
+
+            <li data-history-url="/projects/recent" data-history-title="Recent Design Projects | Coroflot" data-history-page="recent" class=""><a href="#" id="false" tag="false">Recent</a></li>
+
+            <li id="trigger_search_mobile">#</li>
+        </ul>
+    </div>
+
+
+</section>
+
+
+<div class="main_content projects tiles">
+    <div class="mobile_only">
+        
+
+<ul class="tags big_show find_more_in projects_index">
+
+    <li>
+        <a href="#" data-hash="skills=51" data-skill-url="exhibit-design" data-skill-ids="51">Exhibit Design</a>
+    </li>
+    <li>
+        <a href="#" data-hash="skills=140,139" data-skill-url="user-interface" data-skill-ids="140,139">UI/UX</a>
+    </li>
+    <li>
+        <a href="#" data-hash="skills=64" data-skill-url="graphic-design" data-skill-ids="64">Graphic Design</a>
+    </li>
+    <li>
+        <a href="#" data-hash="skills=92" data-skill-url="packaging-design" data-skill-ids="92">Packaging</a>
+    </li>
+    <li>
+        <a href="#" data-hash="skills=73" data-skill-url="industrial-design" data-skill-ids="73">Industrial Design</a>
+    </li>
+    <li>
+        <a href="#" data-hash="skills=54" data-skill-url="fashion-design" data-skill-ids="54">Fashion Design</a>
+    </li>
+    <li>
+        <a href="#" data-hash="skills=100" data-skill-url="product-design" data-skill-ids="100">Product Design</a>
+    </li>
+</ul>
+
+
+
+
+
+
+
+
+    </div>
+    <aside id="filter_container" class="fixed_col">
+        <div class="outer_search_wrap">
+
+            <form class="search_wrap" id="projects_search">
+                <input type="hidden" id="sort_by" value="" />
+                <input type="hidden" id="sort_time" value="true" />
+                <input type="hidden" name="page_number" id="page_number" value="1" />
+                <input type="hidden" id="default_search-term" value="Enter a location, name or keyword" />
+                <input type="hidden" id="listing_page_size" value="24" />
+                <input type="hidden" id="draw_all_results_on_load" value="true" />
+
+                <ol>
+                    <li id="keyword_wrap" class=" hide ">
+                        <label for="search">Keyword</label>
+                        <input type="text" name="keywords" value="" id="searchKey" title="Enter a location, name or keyword" placeholder="Enter a location, name or keyword" />
+                    </li>
+
+                    <li id="skills" class="select" data-max-node-count="60" data-min-node-count="0" data-property-name="Skills">
+                        <label data-key="skills_label" for="skills">Tags</label>
+                        <span class="drop_down" data-key="skills" name="skills">
+
+                            <select class="addition_box_select ignore_element addition_box_handle_modifier">
+                                <option value="">Please Select</option>
+                                    <option value="2">2D Animation</option>
+                                    <option value="3">3D Animation</option>
+                                    <option value="4">3D Modeling</option>
+                                    <option value="5">3D Studio Max</option>
+                                    <option value="6">Account Management</option>
+                                    <option value="162">Advertising</option>
+                                    <option value="8">Animation</option>
+                                    <option value="164">Apparel</option>
+                                    <option value="9">Architecture</option>
+                                    <option value="10">Art Direction</option>
+                                    <option value="158">AutoCAD</option>
+                                    <option value="160">Autodesk Inventor</option>
+                                    <option value="12">Back End Development</option>
+                                    <option value="163">Bicycle</option>
+                                    <option value="14">Blender</option>
+                                    <option value="15">Branding &amp; Corporate Identity</option>
+                                    <option value="18">CAD Design</option>
+                                    <option value="19">Canvas</option>
+                                    <option value="155">Catia</option>
+                                    <option value="20">Cel animation</option>
+                                    <option value="21">CGI</option>
+                                    <option value="22">Character Design</option>
+                                    <option value="23">Cinema 4D</option>
+                                    <option value="25">CMF</option>
+                                    <option value="165">Commercial &amp; Industrial Products</option>
+                                    <option value="26">Commercial Architecture</option>
+                                    <option value="27">Communication Design</option>
+                                    <option value="28">Compositing</option>
+                                    <option value="29">Concept Art</option>
+                                    <option value="166">Consumer Electronics</option>
+                                    <option value="30">Content Management</option>
+                                    <option value="31">Content Strategy</option>
+                                    <option value="32">Copywriting &amp; Editing</option>
+                                    <option value="33">Costume Design</option>
+                                    <option value="34">Creative Direction</option>
+                                    <option value="35">Creative Suite</option>
+                                    <option value="36">CSS</option>
+                                    <option value="37">Design Management</option>
+                                    <option value="38">Design Research</option>
+                                    <option value="167">Desktop &amp; Office Products</option>
+                                    <option value="39">DIY</option>
+                                    <option value="41">E-Commerce</option>
+                                    <option value="42">Editing</option>
+                                    <option value="44">Electrical Engineering</option>
+                                    <option value="45">Email Campaign Design</option>
+                                    <option value="47">Engineering</option>
+                                    <option value="168">Entertainment</option>
+                                    <option value="48">Environmental Graphics</option>
+                                    <option value="49">Ethnographic Research</option>
+                                    <option value="50">Event Design</option>
+                                    <option value="51">Exhibit Design</option>
+                                    <option value="52">Experience Design</option>
+                                    <option value="53">Fabrication</option>
+                                    <option value="54">Fashion Design</option>
+                                    <option value="55">Final Cut Pro</option>
+                                    <option value="169">Food &amp; Beverage</option>
+                                    <option value="170">Footwear</option>
+                                    <option value="154">Formz</option>
+                                    <option value="59">Front End Development</option>
+                                    <option value="61">Furniture Design</option>
+                                    <option value="62">Fusion360</option>
+                                    <option value="63">Game Design</option>
+                                    <option value="171">Gaming</option>
+                                    <option value="172">Garden, Yard &amp; Garage</option>
+                                    <option value="173">Government</option>
+                                    <option value="64">Graphic Design</option>
+                                    <option value="65">Grasshopper</option>
+                                    <option value="66">Hand Lettering</option>
+                                    <option value="152">Hand Rendering</option>
+                                    <option value="67">Hardware UI</option>
+                                    <option value="196">Houdini</option>
+                                    <option value="69">Ideation</option>
+                                    <option value="70">Illustration</option>
+                                    <option value="71">Illustrator</option>
+                                    <option value="72">InDesign</option>
+                                    <option value="73">Industrial Design</option>
+                                    <option value="74">Information Architecture</option>
+                                    <option value="75">Interaction Design</option>
+                                    <option value="76">Interior Architecture</option>
+                                    <option value="77">Interior Design</option>
+                                    <option value="174">Internet Applications</option>
+                                    <option value="175">Kitchen, Bath &amp; Home Decor</option>
+                                    <option value="176">Lighting</option>
+                                    <option value="177">Luxury Goods</option>
+                                    <option value="84">Marvel</option>
+                                    <option value="178">Materials</option>
+                                    <option value="85">Maya</option>
+                                    <option value="182">Medical &amp; Scientific Equipment</option>
+                                    <option value="179">Mobile Apps</option>
+                                    <option value="87">Model Making</option>
+                                    <option value="88">Motion Graphics</option>
+                                    <option value="183">Musical Instruments</option>
+                                    <option value="180">Non-Profit</option>
+                                    <option value="181">Outdoor Equipment</option>
+                                    <option value="92">Packaging Design</option>
+                                    <option value="93">Photographic Styling</option>
+                                    <option value="94">Photoshop</option>
+                                    <option value="184">Point of Purchase</option>
+                                    <option value="96">Premiere</option>
+                                    <option value="97">Print Design</option>
+                                    <option value="98">Print Production</option>
+                                    <option value="100">Product Design</option>
+                                    <option value="101">Product Development</option>
+                                    <option value="102">Production Design</option>
+                                    <option value="103">Project Management</option>
+                                    <option value="104">Prototyping</option>
+                                    <option value="185">Publishing</option>
+                                    <option value="106">Rapid Prototyping</option>
+                                    <option value="197">Recycled</option>
+                                    <option value="109">Research</option>
+                                    <option value="110">Residential Architecture</option>
+                                    <option value="186">Residential Furniture</option>
+                                    <option value="187">Retail</option>
+                                    <option value="151">Revit</option>
+                                    <option value="111">Rhino3D</option>
+                                    <option value="113">Sculpture</option>
+                                    <option value="114">Sensory Design</option>
+                                    <option value="115">Service Design</option>
+                                    <option value="188">Services</option>
+                                    <option value="116">Set Design</option>
+                                    <option value="156">Siemens NX</option>
+                                    <option value="118">Sketch</option>
+                                    <option value="119">Sketchbook Pro</option>
+                                    <option value="120">Sketching</option>
+                                    <option value="121">SketchUP</option>
+                                    <option value="189">Social Impact</option>
+                                    <option value="122">Social Media Marketing</option>
+                                    <option value="190">Soft Goods</option>
+                                    <option value="157">Solid Edge</option>
+                                    <option value="125">solidThinking</option>
+                                    <option value="126">SolidWorks</option>
+                                    <option value="128">Stop Motion</option>
+                                    <option value="153">Strata 3D</option>
+                                    <option value="129">Structural Engineering</option>
+                                    <option value="198">Sustainable</option>
+                                    <option value="131">Textile Design</option>
+                                    <option value="132">Tinkercad</option>
+                                    <option value="133">Transportation</option>
+                                    <option value="134">Trend Research</option>
+                                    <option value="135">Typography</option>
+                                    <option value="136">Unity</option>
+                                    <option value="137">Unreal Engine</option>
+                                    <option value="194">Urban Planning</option>
+                                    <option value="138">Usability Engineering</option>
+                                    <option value="139">User Interface</option>
+                                    <option value="140">UX</option>
+                                    <option value="141">UX Research</option>
+                                    <option value="142">VFX</option>
+                                    <option value="161">Video Editing</option>
+                                    <option value="144">Visual Design</option>
+                                    <option value="191">Visual Merchandising</option>
+                                    <option value="192">VR/AR</option>
+                                    <option value="145">Web Design</option>
+                                    <option value="147">Wireframing</option>
+                                    <option value="150">zBrush</option>
+                            </select>
+
+                            <input data-key="skills" type="hidden" id="skills_ids_csv" name="skills_ids_csv" class="list_as_csv" value="" />
+                            <span class="dd_arrow not_selectable">/</span>
+                        </span>
+
+                        <div class="addition_box" id="skills_sort" data-param-name="skills">
+
+
+                        </div>
+                    </li>
+
+                    
+                </ol>
+
+
+
+                
+
+                <span class="btn full_width_btn run_search" id="search_projects">Search</span>
+            </form>
+        </div>
+        
+
+        <aside class="tile_wrap text_center big_padding desktop_only">
+            <h5>Subscribe to our Newsletter</h5>
+            <p>Get our monthly newsletter for information regarding new articles, promotions, and featured portfolios.</p>
+
+            <a class="btn" href="#" id="news_sub_btn">Subscribe</a>
+        </aside>
+
+        
+
+
+
+
+
+<div class="coro_engage_ad desktop_only">
+    <a href="https://www.coroflot.com/hire-designers?utm-source=sidebar&amp;utm-medium=ad_3" target="_blank">
+        <img src="https://www.coroflot.com/images/page_ads_custom/ad_three_300x600.png">
+    </a>
+
+</div>
+
+
+
+        
+
+        
+    </aside>
+
+
+    <section class="flex_col">
+        <div class="desktop_only">
+            
+
+<ul class="tags big_show find_more_in projects_index">
+
+    <li>
+        <a href="#" data-hash="skills=51" data-skill-url="exhibit-design" data-skill-ids="51">Exhibit Design</a>
+    </li>
+    <li>
+        <a href="#" data-hash="skills=140,139" data-skill-url="user-interface" data-skill-ids="140,139">UI/UX</a>
+    </li>
+    <li>
+        <a href="#" data-hash="skills=64" data-skill-url="graphic-design" data-skill-ids="64">Graphic Design</a>
+    </li>
+    <li>
+        <a href="#" data-hash="skills=92" data-skill-url="packaging-design" data-skill-ids="92">Packaging</a>
+    </li>
+    <li>
+        <a href="#" data-hash="skills=73" data-skill-url="industrial-design" data-skill-ids="73">Industrial Design</a>
+    </li>
+    <li>
+        <a href="#" data-hash="skills=54" data-skill-url="fashion-design" data-skill-ids="54">Fashion Design</a>
+    </li>
+    <li>
+        <a href="#" data-hash="skills=100" data-skill-url="product-design" data-skill-ids="100">Product Design</a>
+    </li>
+</ul>
+
+
+
+
+
+
+
+
+        </div>
+
+        <div class="project_list" id="project_list_container">
+            <div id="all_work" class="tiles" style="opacity: 0;">
+                <div class='grid-sizer'></div><div class='gutter-sizer'></div>
+                
+ 
+
+
+        <div class="item public" data-asset-id="2101221" data-popular-score-fragment="5.30" data-is-liked="False">
+            <a data-user-id="598441" data-project-id="2101221" href="/fasihlisan/3D-Model-Exhibition-Stand-KMN">
+
+
+                <img src="https://s3images.coroflot.com/user_files/individual_files/projects/598441_2101221_cover_nyx7ayhbhkbkmvnustmg.jpg" data-img-width="218" data-img-height="154.08636363636363636363636364" width="218" height="154.08636363636363636363636364" /> 
+                <ul class="user_action_list">
+
+                        <li data-href="/login"
+                            class="set_intent_cookie btn  like_in_list"
+                            data-project-id="2101221" data-owner-id="598441">
+                            Like
+
+                        </li>
+                </ul>
+                <span class="details">
+                    <strong>3D Model Exhibition Stand KMN</strong>
+                    <img src="https://s3images.coroflot.com/user_files/individual_files/avatars/avatar_598441_auhm4xsjii7e5rgk4uzywgfll.jpg" width="20" />
+                    <em>fasih Lisan</em>
+                </span>
+
+            </a>
+
+            <div class="percent_hot_wrap" data-popular-score-fragment="5.30">
+                <svg viewBox='-1 -1 2 2' style="transform: rotate(30deg)"></svg>
+                <div class='icon_c'>
+                    <div class='nums'></div>
+                </div>
+            </div>
+
+            
+    </div>
+        <div class="item public" data-asset-id="2104853" data-popular-score-fragment="2.90" data-is-liked="False">
+            <a data-user-id="812270" data-project-id="2104853" href="/aaronryan/Julias-Odyssey-An-Illustrated-Guide-to-the-German-Cases">
+
+
+                <img src="https://s3images.coroflot.com/user_files/individual_files/projects/812270_2104853_cover_sdu8duhd7rolljqmgr66.jpg" data-img-width="218" data-img-height="145.49886104783599088838268793" width="218" height="145.49886104783599088838268793" /> 
+                <ul class="user_action_list">
+
+                        <li data-href="/login"
+                            class="set_intent_cookie btn  like_in_list"
+                            data-project-id="2104853" data-owner-id="812270">
+                            Like
+
+                        </li>
+                </ul>
+                <span class="details">
+                    <strong>Julias Odyssey - An Illustrated Guide to the German Cases</strong>
+                    <img src="https://s3images.coroflot.com/user_files/individual_files/avatars/avatar_812270_vv2fzgye6_5p5gdjkmr9fsexf.jpg" width="20" />
+                    <em>Aaron Ryan</em>
+                </span>
+
+            </a>
+
+            <div class="percent_hot_wrap" data-popular-score-fragment="2.90">
+                <svg viewBox='-1 -1 2 2' style="transform: rotate(30deg)"></svg>
+                <div class='icon_c'>
+                    <div class='nums'></div>
+                </div>
+            </div>
+
+            
+    </div>
+        <div class="item public" data-asset-id="2105350" data-popular-score-fragment="2.90" data-is-liked="False">
+            <a data-user-id="781950" data-project-id="2105350" href="/Rhjfields/Instructional-Videos">
+
+
+                <img src="https://s3images.coroflot.com/user_files/individual_files/projects/781950_2105350_cover_umuiqjlxvnzjvmqvisht.gif" data-img-width="218" data-img-height="164.66785714285714285714285714" width="218" height="164.66785714285714285714285714" /> 
+                <ul class="user_action_list">
+
+                        <li data-href="/login"
+                            class="set_intent_cookie btn  like_in_list"
+                            data-project-id="2105350" data-owner-id="781950">
+                            Like
+
+                        </li>
+                </ul>
+                <span class="details">
+                    <strong>Instructional Videos</strong>
+                    <img src="https://s3images.coroflot.com/user_files/individual_files/avatars/avatar_781950_uc5dzkjn5gp30zdqkvmoipdmi.png" width="20" />
+                    <em>Ricky  Fields</em>
+                </span>
+
+            </a>
+
+            <div class="percent_hot_wrap" data-popular-score-fragment="2.90">
+                <svg viewBox='-1 -1 2 2' style="transform: rotate(30deg)"></svg>
+                <div class='icon_c'>
+                    <div class='nums'></div>
+                </div>
+            </div>
+
+            
+    </div>
+        <div class="item public" data-asset-id="2105354" data-popular-score-fragment="2.90" data-is-liked="False">
+            <a data-user-id="781950" data-project-id="2105354" href="/Rhjfields/Music-Character-Design">
+
+
+                <img src="https://s3images.coroflot.com/user_files/individual_files/projects/781950_2105354_cover_s6g0lf3d2oqglzhq02ho.gif" data-img-width="218" data-img-height="121.45714285714285714285714286" width="218" height="121.45714285714285714285714286" /> 
+                <ul class="user_action_list">
+
+                        <li data-href="/login"
+                            class="set_intent_cookie btn  like_in_list"
+                            data-project-id="2105354" data-owner-id="781950">
+                            Like
+
+                        </li>
+                </ul>
+                <span class="details">
+                    <strong>Music Character Design</strong>
+                    <img src="https://s3images.coroflot.com/user_files/individual_files/avatars/avatar_781950_uc5dzkjn5gp30zdqkvmoipdmi.png" width="20" />
+                    <em>Ricky  Fields</em>
+                </span>
+
+            </a>
+
+            <div class="percent_hot_wrap" data-popular-score-fragment="2.90">
+                <svg viewBox='-1 -1 2 2' style="transform: rotate(30deg)"></svg>
+                <div class='icon_c'>
+                    <div class='nums'></div>
+                </div>
+            </div>
+
+            
+    </div>
+        <div class="item public" data-asset-id="2106013" data-popular-score-fragment="2.90" data-is-liked="False">
+            <a data-user-id="1002824" data-project-id="2106013" href="/neutrondesigns/STIK-Floor-Lamp">
+
+
+                <img src="https://s3images.coroflot.com/user_files/individual_files/projects/1002824_2106013_cover_vy5cesgjoyvyijbqzh3j.jpg" data-img-width="218" data-img-height="272.5" width="218" height="272.5" /> 
+                <ul class="user_action_list">
+
+                        <li data-href="/login"
+                            class="set_intent_cookie btn  like_in_list"
+                            data-project-id="2106013" data-owner-id="1002824">
+                            Like
+
+                        </li>
+                </ul>
+                <span class="details">
+                    <strong>STIK | Floor Lamp</strong>
+                    <img src="https://s3images.coroflot.com/user_files/individual_files/avatars/avatar_1002824_rolqncyk9xkjotx8yfjauogro.png" width="20" />
+                    <em>Neutron  Her</em>
+                </span>
+
+            </a>
+
+            <div class="percent_hot_wrap" data-popular-score-fragment="2.90">
+                <svg viewBox='-1 -1 2 2' style="transform: rotate(30deg)"></svg>
+                <div class='icon_c'>
+                    <div class='nums'></div>
+                </div>
+            </div>
+
+            
+    </div>
+        <div class="item public" data-asset-id="2107414" data-popular-score-fragment="2.90" data-is-liked="False">
+            <a data-user-id="556854" data-project-id="2107414" href="/graceyunita/MSF-Photo-Exhibition">
+
+
+                <img src="https://s3images.coroflot.com/user_files/individual_files/projects/556854_2107414_cover_gidilkdm0wijuf9ibsiz.jpg" data-img-width="218" data-img-height="218" width="218" height="218" /> 
+                <ul class="user_action_list">
+
+                        <li data-href="/login"
+                            class="set_intent_cookie btn  like_in_list"
+                            data-project-id="2107414" data-owner-id="556854">
+                            Like
+
+                        </li>
+                </ul>
+                <span class="details">
+                    <strong>MSF Photo Exhibition</strong>
+                    <img src="https://s3images.coroflot.com/user_files/individual_files/avatars/avatar_556854_t9kznske57btqexej9v2uobrh.jpg" width="20" />
+                    <em>Grace Yunita</em>
+                </span>
+
+            </a>
+
+            <div class="percent_hot_wrap" data-popular-score-fragment="2.90">
+                <svg viewBox='-1 -1 2 2' style="transform: rotate(30deg)"></svg>
+                <div class='icon_c'>
+                    <div class='nums'></div>
+                </div>
+            </div>
+
+            
+    </div>
+        <div class="item public" data-asset-id="2108484" data-popular-score-fragment="2.90" data-is-liked="False">
+            <a data-user-id="325955" data-project-id="2108484" href="/nmadsen/Prototyping-n-Making">
+
+
+                <img src="https://s3images.coroflot.com/user_files/individual_files/projects/325955_2108484_cover_ooeazvz40vlkrylif22w.jpg" data-img-width="218" data-img-height="218" width="218" height="218" /> 
+                <ul class="user_action_list">
+
+                        <li data-href="/login"
+                            class="set_intent_cookie btn  like_in_list"
+                            data-project-id="2108484" data-owner-id="325955">
+                            Like
+
+                        </li>
+                </ul>
+                <span class="details">
+                    <strong>Prototyping &amp; Making</strong>
+                    <img src="https://s3images.coroflot.com/user_files/individual_files/avatars/avatar_325955_Rmc_oSUunjF6xE3_dCFFU6bW5.jpg" width="20" />
+                    <em>Nickolas Madsen</em>
+                </span>
+
+            </a>
+
+            <div class="percent_hot_wrap" data-popular-score-fragment="2.90">
+                <svg viewBox='-1 -1 2 2' style="transform: rotate(30deg)"></svg>
+                <div class='icon_c'>
+                    <div class='nums'></div>
+                </div>
+            </div>
+
+            
+    </div>
+        <div class="item public" data-asset-id="2108510" data-popular-score-fragment="2.90" data-is-liked="False">
+            <a data-user-id="556854" data-project-id="2108510" href="/graceyunita/STACK-2020">
+
+
+                <img src="https://s3images.coroflot.com/user_files/individual_files/projects/556854_2108510_cover_pgdjiczy67jczcfaowi4.jpg" data-img-width="218" data-img-height="218" width="218" height="218" /> 
+                <ul class="user_action_list">
+
+                        <li data-href="/login"
+                            class="set_intent_cookie btn  like_in_list"
+                            data-project-id="2108510" data-owner-id="556854">
+                            Like
+
+                        </li>
+                </ul>
+                <span class="details">
+                    <strong>STACK 2020</strong>
+                    <img src="https://s3images.coroflot.com/user_files/individual_files/avatars/avatar_556854_t9kznske57btqexej9v2uobrh.jpg" width="20" />
+                    <em>Grace Yunita</em>
+                </span>
+
+            </a>
+
+            <div class="percent_hot_wrap" data-popular-score-fragment="2.90">
+                <svg viewBox='-1 -1 2 2' style="transform: rotate(30deg)"></svg>
+                <div class='icon_c'>
+                    <div class='nums'></div>
+                </div>
+            </div>
+
+            
+    </div>
+        <div class="item public" data-asset-id="2100549" data-popular-score-fragment="2.90" data-is-liked="False">
+            <a data-user-id="556854" data-project-id="2100549" href="/graceyunita/SciTech-Exhibition-2017">
+
+
+                <img src="https://s3images.coroflot.com/user_files/individual_files/projects/556854_2100549_cover_s32ggwhwm9kotuo7pg4a.jpg" data-img-width="218" data-img-height="218" width="218" height="218" /> 
+                <ul class="user_action_list">
+
+                        <li data-href="/login"
+                            class="set_intent_cookie btn  like_in_list"
+                            data-project-id="2100549" data-owner-id="556854">
+                            Like
+
+                        </li>
+                </ul>
+                <span class="details">
+                    <strong>SciTech Exhibition 2017</strong>
+                    <img src="https://s3images.coroflot.com/user_files/individual_files/avatars/avatar_556854_t9kznske57btqexej9v2uobrh.jpg" width="20" />
+                    <em>Grace Yunita</em>
+                </span>
+
+            </a>
+
+            <div class="percent_hot_wrap" data-popular-score-fragment="2.90">
+                <svg viewBox='-1 -1 2 2' style="transform: rotate(30deg)"></svg>
+                <div class='icon_c'>
+                    <div class='nums'></div>
+                </div>
+            </div>
+
+            
+    </div>
+        <div class="item public" data-asset-id="2108444" data-popular-score-fragment="2.80" data-is-liked="False">
+            <a data-user-id="325955" data-project-id="2108444" href="/nmadsen/Brawny-Wiper-Bucket">
+
+
+                <img src="https://s3images.coroflot.com/user_files/individual_files/projects/325955_2108444_cover_vovd6fdmhvrtmb0tybik.png" data-img-width="218" data-img-height="218" width="218" height="218" /> 
+                <ul class="user_action_list">
+
+                        <li data-href="/login"
+                            class="set_intent_cookie btn  like_in_list"
+                            data-project-id="2108444" data-owner-id="325955">
+                            Like
+
+                        </li>
+                </ul>
+                <span class="details">
+                    <strong>Brawny Wiper Bucket</strong>
+                    <img src="https://s3images.coroflot.com/user_files/individual_files/avatars/avatar_325955_Rmc_oSUunjF6xE3_dCFFU6bW5.jpg" width="20" />
+                    <em>Nickolas Madsen</em>
+                </span>
+
+            </a>
+
+            <div class="percent_hot_wrap" data-popular-score-fragment="2.80">
+                <svg viewBox='-1 -1 2 2' style="transform: rotate(30deg)"></svg>
+                <div class='icon_c'>
+                    <div class='nums'></div>
+                </div>
+            </div>
+
+            
+    </div>
+        <div class="item public" data-asset-id="2105357" data-popular-score-fragment="2.80" data-is-liked="False">
+            <a data-user-id="781950" data-project-id="2105357" href="/Rhjfields/Meet-beeb">
+
+
+                <img src="https://s3images.coroflot.com/user_files/individual_files/projects/781950_2105357_cover_bk_naewx9glagauhrv_v.gif" data-img-width="218" data-img-height="135.47142857142857142857142857" width="218" height="135.47142857142857142857142857" /> 
+                <ul class="user_action_list">
+
+                        <li data-href="/login"
+                            class="set_intent_cookie btn  like_in_list"
+                            data-project-id="2105357" data-owner-id="781950">
+                            Like
+
+                        </li>
+                </ul>
+                <span class="details">
+                    <strong>Meet beeb</strong>
+                    <img src="https://s3images.coroflot.com/user_files/individual_files/avatars/avatar_781950_uc5dzkjn5gp30zdqkvmoipdmi.png" width="20" />
+                    <em>Ricky  Fields</em>
+                </span>
+
+            </a>
+
+            <div class="percent_hot_wrap" data-popular-score-fragment="2.80">
+                <svg viewBox='-1 -1 2 2' style="transform: rotate(30deg)"></svg>
+                <div class='icon_c'>
+                    <div class='nums'></div>
+                </div>
+            </div>
+
+            
+    </div>
+        <div class="item public" data-asset-id="2107832" data-popular-score-fragment="2.70" data-is-liked="False">
+            <a data-user-id="329922" data-project-id="2107832" href="/VT8/Talking-About-Scale">
+
+
+                <img src="https://s3images.coroflot.com/user_files/individual_files/projects/329922_2107832_cover_gbxxu59izptjidn2i___.jpg" data-img-width="218" data-img-height="218" width="218" height="218" /> 
+                <ul class="user_action_list">
+
+                        <li data-href="/login"
+                            class="set_intent_cookie btn  like_in_list"
+                            data-project-id="2107832" data-owner-id="329922">
+                            Like
+
+                        </li>
+                </ul>
+                <span class="details">
+                    <strong>Talking About Scale</strong>
+                    <img src="https://s3images.coroflot.com/user_files/individual_files/avatars/avatar_329922_jdk_exxnscjiihxko9ysfxp80.jpg" width="20" />
+                    <em>Simon Williamson</em>
+                </span>
+
+            </a>
+
+            <div class="percent_hot_wrap" data-popular-score-fragment="2.70">
+                <svg viewBox='-1 -1 2 2' style="transform: rotate(30deg)"></svg>
+                <div class='icon_c'>
+                    <div class='nums'></div>
+                </div>
+            </div>
+
+            
+    </div>
+        <div class="item public" data-asset-id="2103598" data-popular-score-fragment="2.70" data-is-liked="False">
+            <a data-user-id="708086" data-project-id="2103598" href="/passakornk/Orion-Ice-Trucket">
+
+
+                <img src="https://s3images.coroflot.com/user_files/individual_files/projects/708086_2103598_cover_qxj_jv0aipau0wk7txib.jpg" data-img-width="218" data-img-height="931.6239316239316239316239316" width="218" height="931.6239316239316239316239316" /> 
+                <ul class="user_action_list">
+
+                        <li data-href="/login"
+                            class="set_intent_cookie btn  like_in_list"
+                            data-project-id="2103598" data-owner-id="708086">
+                            Like
+
+                        </li>
+                </ul>
+                <span class="details">
+                    <strong>Orion Ice Trucket</strong>
+                    <img src="https://s3images.coroflot.com/user_files/individual_files/avatars/avatar_708086_pwv9_htilmccalokezdrflw4q.jpg" width="20" />
+                    <em>Passakorn Kulkliang</em>
+                </span>
+
+            </a>
+
+            <div class="percent_hot_wrap" data-popular-score-fragment="2.70">
+                <svg viewBox='-1 -1 2 2' style="transform: rotate(30deg)"></svg>
+                <div class='icon_c'>
+                    <div class='nums'></div>
+                </div>
+            </div>
+
+            
+    </div>
+        <div class="item public" data-asset-id="2063334" data-popular-score-fragment="2.70" data-is-liked="False">
+            <a data-user-id="811753" data-project-id="2063334" href="/YuliaEllison/Salvatore-Ferragamo">
+
+
+                <img src="https://s3images.coroflot.com/user_files/individual_files/projects/811753_2063334_cover_dd6ltqiwr_xef4x02y4x.jpg" data-img-width="218" data-img-height="168.45454545454545454545454545" width="218" height="168.45454545454545454545454545" /> 
+                <ul class="user_action_list">
+
+                        <li data-href="/login"
+                            class="set_intent_cookie btn  like_in_list"
+                            data-project-id="2063334" data-owner-id="811753">
+                            Like
+
+                        </li>
+                </ul>
+                <span class="details">
+                    <strong>Salvatore Ferragamo</strong>
+                    <img src="https://s3images.coroflot.com/user_files/individual_files/avatars/avatar_811753__nmeddawpt3aztjjhzmk7ztqi.jpg" width="20" />
+                    <em>Yulia Ellison</em>
+                </span>
+
+            </a>
+
+            <div class="percent_hot_wrap" data-popular-score-fragment="2.70">
+                <svg viewBox='-1 -1 2 2' style="transform: rotate(30deg)"></svg>
+                <div class='icon_c'>
+                    <div class='nums'></div>
+                </div>
+            </div>
+
+            
+    </div>
+        <div class="item public" data-asset-id="2106351" data-popular-score-fragment="2.40" data-is-liked="False">
+            <a data-user-id="501810" data-project-id="2106351" href="/rohitricha/Lets-Learn-with-Colors">
+
+
+                <img src="https://s3images.coroflot.com/user_files/individual_files/projects/501810_2106351_cover_qavlqaxtsqjav_r_bwtn.jpg" data-img-width="218" data-img-height="218" width="218" height="218" /> 
+                <ul class="user_action_list">
+
+                        <li data-href="/login"
+                            class="set_intent_cookie btn  like_in_list"
+                            data-project-id="2106351" data-owner-id="501810">
+                            Like
+
+                        </li>
+                </ul>
+                <span class="details">
+                    <strong>Let&#39;s Learn with Colors</strong>
+                    <img src="https://s3images.coroflot.com/user_files/individual_files/avatars/avatar_501810_rpd7pjkdfrr5tpgza4_8jjpa3.jpg" width="20" />
+                    <em>Rajiv Kumar</em>
+                </span>
+
+            </a>
+
+            <div class="percent_hot_wrap" data-popular-score-fragment="2.40">
+                <svg viewBox='-1 -1 2 2' style="transform: rotate(30deg)"></svg>
+                <div class='icon_c'>
+                    <div class='nums'></div>
+                </div>
+            </div>
+
+            
+    </div>
+        <div class="item public" data-asset-id="2062358" data-popular-score-fragment="2.30" data-is-liked="False">
+            <a data-user-id="537877" data-project-id="2062358" href="/ivankaplin/Rosneft-2019">
+
+
+                <img src="https://s3images.coroflot.com/user_files/individual_files/projects/537877_2062358_cover_8rfcadhcpzjwqz7amvdg.jpg" data-img-width="218" data-img-height="154.08636363636363636363636364" width="218" height="154.08636363636363636363636364" /> 
+                <ul class="user_action_list">
+
+                        <li data-href="/login"
+                            class="set_intent_cookie btn  like_in_list"
+                            data-project-id="2062358" data-owner-id="537877">
+                            Like
+
+                        </li>
+                </ul>
+                <span class="details">
+                    <strong>Rosneft 2019</strong>
+                    <img src="https://s3images.coroflot.com/user_files/individual_files/avatars/avatar_537877_8l5u8glejpmjy5lsjmeqonhec.jpg" width="20" />
+                    <em>Ivan Kaplin</em>
+                </span>
+
+            </a>
+
+            <div class="percent_hot_wrap" data-popular-score-fragment="2.30">
+                <svg viewBox='-1 -1 2 2' style="transform: rotate(30deg)"></svg>
+                <div class='icon_c'>
+                    <div class='nums'></div>
+                </div>
+            </div>
+
+            
+    </div>
+        <div class="item public" data-asset-id="2093657" data-popular-score-fragment="2.20" data-is-liked="False">
+            <a data-user-id="133263" data-project-id="2093657" href="/corazzostudios/Splash-Image">
+
+
+                <img src="https://s3images.coroflot.com/user_files/individual_files/projects/133263_2093657_cover_xjdbt08h789r9mczkezw.jpg" data-img-width="218" data-img-height="52.022727272727272727272727273" width="218" height="52.022727272727272727272727273" /> 
+                <ul class="user_action_list">
+
+                        <li data-href="/login"
+                            class="set_intent_cookie btn  like_in_list"
+                            data-project-id="2093657" data-owner-id="133263">
+                            Like
+
+                        </li>
+                </ul>
+                <span class="details">
+                    <strong>Splash Image</strong>
+                    <img src="https://s3images.coroflot.com/user_files/individual_files/avatars/avatar_133263_zqehyso7vrk0vwdl9jvdcyfcd.jpg" width="20" />
+                    <em>Paul Corazzo</em>
+                </span>
+
+            </a>
+
+            <div class="percent_hot_wrap" data-popular-score-fragment="2.20">
+                <svg viewBox='-1 -1 2 2' style="transform: rotate(30deg)"></svg>
+                <div class='icon_c'>
+                    <div class='nums'></div>
+                </div>
+            </div>
+
+            
+    </div>
+        <div class="item public" data-asset-id="2070765" data-popular-score-fragment="2.10" data-is-liked="False">
+            <a data-user-id="435320" data-project-id="2070765" href="/mehdikia/Modern-Villa-Design">
+
+
+                <img src="https://s3images.coroflot.com/user_files/individual_files/projects/435320_2070765_cover_plziuzbqf7sebykaxod0.jpg" data-img-width="218" data-img-height="218" width="218" height="218" /> 
+                <ul class="user_action_list">
+
+                        <li data-href="/login"
+                            class="set_intent_cookie btn  like_in_list"
+                            data-project-id="2070765" data-owner-id="435320">
+                            Like
+
+                        </li>
+                </ul>
+                <span class="details">
+                    <strong>Modern Villa Design</strong>
+                    <img src="https://s3images.coroflot.com/user_files/individual_files/avatars/avatar_435320_2tpefnhpgczm5bjtv8kfxxljb.jpg" width="20" />
+                    <em>Mehdi KIA</em>
+                </span>
+
+            </a>
+
+            <div class="percent_hot_wrap" data-popular-score-fragment="2.10">
+                <svg viewBox='-1 -1 2 2' style="transform: rotate(30deg)"></svg>
+                <div class='icon_c'>
+                    <div class='nums'></div>
+                </div>
+            </div>
+
+            
+    </div>
+        <div class="item public" data-asset-id="2107863" data-popular-score-fragment="1.90" data-is-liked="False">
+            <a data-user-id="355383" data-project-id="2107863" href="/serracarlos/DEGOY-DESIGN-Plastic-Contemporary-Furniture">
+
+
+                <img src="https://s3images.coroflot.com/user_files/individual_files/projects/355383_2107863_cover_stbxehsssizxdtz9c4wz.jpg" data-img-width="218" data-img-height="234.84545454545454545454545455" width="218" height="234.84545454545454545454545455" /> 
+                <ul class="user_action_list">
+
+                        <li data-href="/login"
+                            class="set_intent_cookie btn  like_in_list"
+                            data-project-id="2107863" data-owner-id="355383">
+                            Like
+
+                        </li>
+                </ul>
+                <span class="details">
+                    <strong>DEGOY DESIGN / Plastic Contemporary Furniture</strong>
+                    <img src="https://s3images.coroflot.com/user_files/individual_files/avatars/avatar_355383_comkxroOxKCyEidBD251cXnP3.jpg" width="20" />
+                    <em>Carlos Serra</em>
+                </span>
+
+            </a>
+
+            <div class="percent_hot_wrap" data-popular-score-fragment="1.90">
+                <svg viewBox='-1 -1 2 2' style="transform: rotate(30deg)"></svg>
+                <div class='icon_c'>
+                    <div class='nums'></div>
+                </div>
+            </div>
+
+            
+    </div>
+        <div class="item public" data-asset-id="2103605" data-popular-score-fragment="1.90" data-is-liked="False">
+            <a data-user-id="505974" data-project-id="2103605" href="/dionpender/generations-bank">
+
+
+                <img src="https://s3images.coroflot.com/user_files/individual_files/projects/505974_2103605_cover__oongas8n8xpd6rmzdlr.jpg" data-img-width="218" data-img-height="217.50454545454545454545454545" width="218" height="217.50454545454545454545454545" /> 
+                <ul class="user_action_list">
+
+                        <li data-href="/login"
+                            class="set_intent_cookie btn  like_in_list"
+                            data-project-id="2103605" data-owner-id="505974">
+                            Like
+
+                        </li>
+                </ul>
+                <span class="details">
+                    <strong>generations bank</strong>
+                    <img src="https://s3images.coroflot.com/user_files/individual_files/avatars/avatar_505974_daxsjy63xny66kot6xdxwwmed.jpg" width="20" />
+                    <em>Dion Pender</em>
+                </span>
+
+            </a>
+
+            <div class="percent_hot_wrap" data-popular-score-fragment="1.90">
+                <svg viewBox='-1 -1 2 2' style="transform: rotate(30deg)"></svg>
+                <div class='icon_c'>
+                    <div class='nums'></div>
+                </div>
+            </div>
+
+            
+    </div>
+        <div class="item public" data-asset-id="2104320" data-popular-score-fragment="1.90" data-is-liked="False">
+            <a data-user-id="797780" data-project-id="2104320" href="/perconte/FALK-Branding">
+
+
+                <img src="https://s3images.coroflot.com/user_files/individual_files/projects/797780_2104320_cover_oka6crt_hge49swea6ol.jpg" data-img-width="218" data-img-height="218" width="218" height="218" /> 
+                <ul class="user_action_list">
+
+                        <li data-href="/login"
+                            class="set_intent_cookie btn  like_in_list"
+                            data-project-id="2104320" data-owner-id="797780">
+                            Like
+
+                        </li>
+                </ul>
+                <span class="details">
+                    <strong>FALK Branding</strong>
+                    <img src="https://s3images.coroflot.com/user_files/individual_files/avatars/avatar_797780_x8lagsyxxdtfdobessw2fdcua.png" width="20" />
+                    <em>Piotr Welniak</em>
+                </span>
+
+            </a>
+
+            <div class="percent_hot_wrap" data-popular-score-fragment="1.90">
+                <svg viewBox='-1 -1 2 2' style="transform: rotate(30deg)"></svg>
+                <div class='icon_c'>
+                    <div class='nums'></div>
+                </div>
+            </div>
+
+            
+    </div>
+        <div class="item public" data-asset-id="2086069" data-popular-score-fragment="1.90" data-is-liked="False">
+            <a data-user-id="536989" data-project-id="2086069" href="/amirara/shina">
+
+
+                <img src="https://s3images.coroflot.com/user_files/individual_files/projects/536989_2086069_cover_lpyx4wfzvdogalgabqv4.jpg" data-img-width="218" data-img-height="654" width="218" height="654" /> 
+                <ul class="user_action_list">
+
+                        <li data-href="/login"
+                            class="set_intent_cookie btn  like_in_list"
+                            data-project-id="2086069" data-owner-id="536989">
+                            Like
+
+                        </li>
+                </ul>
+                <span class="details">
+                    <strong>shina</strong>
+                    <img src="https://s3images.coroflot.com/user_files/individual_files/avatars/avatar_536989_xefpabpnzhxms8zbm02sn_hwz.jpg" width="20" />
+                    <em>amir  jahanara</em>
+                </span>
+
+            </a>
+
+            <div class="percent_hot_wrap" data-popular-score-fragment="1.90">
+                <svg viewBox='-1 -1 2 2' style="transform: rotate(30deg)"></svg>
+                <div class='icon_c'>
+                    <div class='nums'></div>
+                </div>
+            </div>
+
+            
+    </div>
+        <div class="item public" data-asset-id="2103266" data-popular-score-fragment="1.80" data-is-liked="False">
+            <a data-user-id="435320" data-project-id="2103266" href="/mehdikia/LukOil">
+
+
+                <img src="https://s3images.coroflot.com/user_files/individual_files/projects/435320_2103266_cover_cdqp87mjsvddtp_6eu5t.jpg" data-img-width="218" data-img-height="367.62727272727272727272727273" width="218" height="367.62727272727272727272727273" /> 
+                <ul class="user_action_list">
+
+                        <li data-href="/login"
+                            class="set_intent_cookie btn  like_in_list"
+                            data-project-id="2103266" data-owner-id="435320">
+                            Like
+
+                        </li>
+                </ul>
+                <span class="details">
+                    <strong>LukOil</strong>
+                    <img src="https://s3images.coroflot.com/user_files/individual_files/avatars/avatar_435320_2tpefnhpgczm5bjtv8kfxxljb.jpg" width="20" />
+                    <em>Mehdi KIA</em>
+                </span>
+
+            </a>
+
+            <div class="percent_hot_wrap" data-popular-score-fragment="1.80">
+                <svg viewBox='-1 -1 2 2' style="transform: rotate(30deg)"></svg>
+                <div class='icon_c'>
+                    <div class='nums'></div>
+                </div>
+            </div>
+
+            
+    </div>
+        <div class="item public" data-asset-id="2099870" data-popular-score-fragment="1.60" data-is-liked="False">
+            <a data-user-id="435320" data-project-id="2099870" href="/mehdikia/Creno">
+
+
+                <img src="https://s3images.coroflot.com/user_files/individual_files/projects/435320_2099870_cover_zqumsr2eufseyy7maxfe.jpg" data-img-width="218" data-img-height="138.72727272727272727272727273" width="218" height="138.72727272727272727272727273" /> 
+                <ul class="user_action_list">
+
+                        <li data-href="/login"
+                            class="set_intent_cookie btn  like_in_list"
+                            data-project-id="2099870" data-owner-id="435320">
+                            Like
+
+                        </li>
+                </ul>
+                <span class="details">
+                    <strong>Creno</strong>
+                    <img src="https://s3images.coroflot.com/user_files/individual_files/avatars/avatar_435320_2tpefnhpgczm5bjtv8kfxxljb.jpg" width="20" />
+                    <em>Mehdi KIA</em>
+                </span>
+
+            </a>
+
+            <div class="percent_hot_wrap" data-popular-score-fragment="1.60">
+                <svg viewBox='-1 -1 2 2' style="transform: rotate(30deg)"></svg>
+                <div class='icon_c'>
+                    <div class='nums'></div>
+                </div>
+            </div>
+
+            
+    </div>
+
+
+
+            </div>
+
+            
+            
+            
+            <div id="show_more_wrap">
+
+                <p class="showMore"><a href="/projects?start_row=25&amp;end_row=48" id="show_more"><span>View More Projects</span></a></p>
+            </div>
+        </div>
+    </section>
+</div>
+
+
+<script>
+    $(function () {
+        var _is_moderator = "false" == "true";
+        var project_skills_json = [{"id":2,"name":"2D Animation","url_name":"2d-animation"},{"id":3,"name":"3D Animation","url_name":"3d-animation"},{"id":4,"name":"3D Modeling","url_name":"3d-modeling"},{"id":5,"name":"3D Studio Max","url_name":"3d-studio-max"},{"id":6,"name":"Account Management","url_name":"account-management"},{"id":162,"name":"Advertising","url_name":"advertising"},{"id":8,"name":"Animation","url_name":"animation"},{"id":164,"name":"Apparel","url_name":"apparel"},{"id":9,"name":"Architecture","url_name":"architecture"},{"id":10,"name":"Art Direction","url_name":"art-direction"},{"id":158,"name":"AutoCAD","url_name":"autocad"},{"id":160,"name":"Autodesk Inventor","url_name":"autodesk-inventor"},{"id":12,"name":"Back End Development","url_name":"back-end-development"},{"id":163,"name":"Bicycle","url_name":"bicycle"},{"id":14,"name":"Blender","url_name":"blender"},{"id":15,"name":"Branding \u0026 Corporate Identity","url_name":"branding-n-corporate-identity"},{"id":18,"name":"CAD Design","url_name":"cad-design"},{"id":19,"name":"Canvas","url_name":"canvas"},{"id":155,"name":"Catia","url_name":"catia"},{"id":20,"name":"Cel animation","url_name":"cel-animation"},{"id":21,"name":"CGI","url_name":"cgi"},{"id":22,"name":"Character Design","url_name":"character-design"},{"id":23,"name":"Cinema 4D","url_name":"cinema-4d"},{"id":25,"name":"CMF","url_name":"cmf"},{"id":165,"name":"Commercial \u0026 Industrial Products","url_name":"commercial-n-industrial-products"},{"id":26,"name":"Commercial Architecture","url_name":"commercial-architecture"},{"id":27,"name":"Communication Design","url_name":"communication-design"},{"id":28,"name":"Compositing","url_name":"compositing"},{"id":29,"name":"Concept Art","url_name":"concept-art"},{"id":166,"name":"Consumer Electronics","url_name":"consumer-electronics"},{"id":30,"name":"Content Management","url_name":"content-management"},{"id":31,"name":"Content Strategy","url_name":"content-strategy"},{"id":32,"name":"Copywriting \u0026 Editing","url_name":"copywriting-n-editing"},{"id":33,"name":"Costume Design","url_name":"costume-design"},{"id":34,"name":"Creative Direction","url_name":"creative-direction"},{"id":35,"name":"Creative Suite","url_name":"creative-suite"},{"id":36,"name":"CSS","url_name":"css"},{"id":37,"name":"Design Management","url_name":"design-management"},{"id":38,"name":"Design Research","url_name":"design-research"},{"id":167,"name":"Desktop \u0026 Office Products","url_name":"desktop-n-office-products"},{"id":39,"name":"DIY","url_name":"diy"},{"id":41,"name":"E-Commerce","url_name":"e-commerce"},{"id":42,"name":"Editing","url_name":"editing"},{"id":44,"name":"Electrical Engineering","url_name":"electrical-engineering"},{"id":45,"name":"Email Campaign Design","url_name":"email-campaign-design"},{"id":47,"name":"Engineering","url_name":"engineering"},{"id":168,"name":"Entertainment","url_name":"entertainment"},{"id":48,"name":"Environmental Graphics","url_name":"environmental-graphics"},{"id":49,"name":"Ethnographic Research","url_name":"ethnographic-research"},{"id":50,"name":"Event Design","url_name":"event-design"},{"id":51,"name":"Exhibit Design","url_name":"exhibit-design"},{"id":52,"name":"Experience Design","url_name":"experience-design"},{"id":53,"name":"Fabrication","url_name":"fabrication"},{"id":54,"name":"Fashion Design","url_name":"fashion-design"},{"id":55,"name":"Final Cut Pro","url_name":"final-cut-pro"},{"id":169,"name":"Food \u0026 Beverage","url_name":"food-n-beverage"},{"id":170,"name":"Footwear","url_name":"footwear"},{"id":154,"name":"Formz","url_name":"formz"},{"id":59,"name":"Front End Development","url_name":"front-end-development"},{"id":61,"name":"Furniture Design","url_name":"furniture-design"},{"id":62,"name":"Fusion360","url_name":"fusion360"},{"id":63,"name":"Game Design","url_name":"game-design"},{"id":171,"name":"Gaming","url_name":"gaming"},{"id":172,"name":"Garden, Yard \u0026 Garage","url_name":"garden-yard-n-garage"},{"id":173,"name":"Government","url_name":"government"},{"id":64,"name":"Graphic Design","url_name":"graphic-design"},{"id":65,"name":"Grasshopper","url_name":"grasshopper"},{"id":66,"name":"Hand Lettering","url_name":"hand-lettering"},{"id":152,"name":"Hand Rendering","url_name":"hand-rendering"},{"id":67,"name":"Hardware UI","url_name":"hardware-ui"},{"id":196,"name":"Houdini","url_name":"houdini"},{"id":69,"name":"Ideation","url_name":"ideation"},{"id":70,"name":"Illustration","url_name":"illustration"},{"id":71,"name":"Illustrator","url_name":"illustrator"},{"id":72,"name":"InDesign","url_name":"indesign"},{"id":73,"name":"Industrial Design","url_name":"industrial-design"},{"id":74,"name":"Information Architecture","url_name":"information-architecture"},{"id":75,"name":"Interaction Design","url_name":"interaction-design"},{"id":76,"name":"Interior Architecture","url_name":"interior-architecture"},{"id":77,"name":"Interior Design","url_name":"interior-design"},{"id":174,"name":"Internet Applications","url_name":"internet-applications"},{"id":175,"name":"Kitchen, Bath \u0026 Home Decor","url_name":"kitchen-bath-n-home-decor"},{"id":176,"name":"Lighting","url_name":"lighting"},{"id":177,"name":"Luxury Goods","url_name":"luxury-goods"},{"id":84,"name":"Marvel","url_name":"marvel"},{"id":178,"name":"Materials","url_name":"materials"},{"id":85,"name":"Maya","url_name":"maya"},{"id":182,"name":"Medical \u0026 Scientific Equipment","url_name":"medical-n-scientific-equipment"},{"id":179,"name":"Mobile Apps","url_name":"mobile-apps"},{"id":87,"name":"Model Making","url_name":"model-making"},{"id":88,"name":"Motion Graphics","url_name":"motion-graphics"},{"id":183,"name":"Musical Instruments","url_name":"musical-instruments"},{"id":180,"name":"Non-Profit","url_name":"non-profit"},{"id":181,"name":"Outdoor Equipment","url_name":"outdoor-equipment"},{"id":92,"name":"Packaging Design","url_name":"packaging-design"},{"id":93,"name":"Photographic Styling","url_name":"photographic-styling"},{"id":94,"name":"Photoshop","url_name":"photoshop"},{"id":184,"name":"Point of Purchase","url_name":"point-of-purchase"},{"id":96,"name":"Premiere","url_name":"premiere"},{"id":97,"name":"Print Design","url_name":"print-design"},{"id":98,"name":"Print Production","url_name":"print-production"},{"id":100,"name":"Product Design","url_name":"product-design"},{"id":101,"name":"Product Development","url_name":"product-development"},{"id":102,"name":"Production Design","url_name":"production-design"},{"id":103,"name":"Project Management","url_name":"project-management"},{"id":104,"name":"Prototyping","url_name":"prototyping"},{"id":185,"name":"Publishing","url_name":"publishing"},{"id":106,"name":"Rapid Prototyping","url_name":"rapid-prototyping"},{"id":197,"name":"Recycled","url_name":"recycled"},{"id":109,"name":"Research","url_name":"research"},{"id":110,"name":"Residential Architecture","url_name":"residential-architecture"},{"id":186,"name":"Residential Furniture","url_name":"residential-furniture"},{"id":187,"name":"Retail","url_name":"retail"},{"id":151,"name":"Revit","url_name":"revit"},{"id":111,"name":"Rhino3D","url_name":"rhino3d"},{"id":113,"name":"Sculpture","url_name":"sculpture"},{"id":114,"name":"Sensory Design","url_name":"sensory-design"},{"id":115,"name":"Service Design","url_name":"service-design"},{"id":188,"name":"Services","url_name":"services"},{"id":116,"name":"Set Design","url_name":"set-design"},{"id":156,"name":"Siemens NX","url_name":"siemens-nx"},{"id":118,"name":"Sketch","url_name":"sketch"},{"id":119,"name":"Sketchbook Pro","url_name":"sketchbook-pro"},{"id":120,"name":"Sketching","url_name":"sketching"},{"id":121,"name":"SketchUP","url_name":"sketchup"},{"id":189,"name":"Social Impact","url_name":"social-impact"},{"id":122,"name":"Social Media Marketing","url_name":"social-media-marketing"},{"id":190,"name":"Soft Goods","url_name":"soft-goods"},{"id":157,"name":"Solid Edge","url_name":"solid-edge"},{"id":125,"name":"solidThinking","url_name":"solidthinking"},{"id":126,"name":"SolidWorks","url_name":"solidworks"},{"id":128,"name":"Stop Motion","url_name":"stop-motion"},{"id":153,"name":"Strata 3D","url_name":"strata-3d"},{"id":129,"name":"Structural Engineering","url_name":"structural-engineering"},{"id":198,"name":"Sustainable","url_name":"sustainable"},{"id":131,"name":"Textile Design","url_name":"textile-design"},{"id":132,"name":"Tinkercad","url_name":"tinkercad"},{"id":133,"name":"Transportation","url_name":"transportation"},{"id":134,"name":"Trend Research","url_name":"trend-research"},{"id":135,"name":"Typography","url_name":"typography"},{"id":136,"name":"Unity","url_name":"unity"},{"id":137,"name":"Unreal Engine","url_name":"unreal-engine"},{"id":194,"name":"Urban Planning","url_name":"urban-planning"},{"id":138,"name":"Usability Engineering","url_name":"usability-engineering"},{"id":139,"name":"User Interface","url_name":"user-interface"},{"id":140,"name":"UX","url_name":"ux"},{"id":141,"name":"UX Research","url_name":"ux-research"},{"id":142,"name":"VFX","url_name":"vfx"},{"id":161,"name":"Video Editing","url_name":"video-editing"},{"id":144,"name":"Visual Design","url_name":"visual-design"},{"id":191,"name":"Visual Merchandising","url_name":"visual-merchandising"},{"id":192,"name":"VR/AR","url_name":"vr-ar"},{"id":145,"name":"Web Design","url_name":"web-design"},{"id":147,"name":"Wireframing","url_name":"wireframing"},{"id":150,"name":"zBrush","url_name":"zbrush"}];
+
+        var project_searching = new Project_Search({
+            is_moderator: _is_moderator,
+            total_count: parseInt("323"),
+            skills_list: project_skills_json
+        });
+        project_searching.init();
+
+        //added for campaign monitor employer newsletter subscribing
+        newsletter_subscribe();
+
+        //var full_multi_select = new Multi_Element({ char_for_remove_icon: "x", use_hidden_field_csv_for_list: true });
+        //full_multi_select.init();
+    });
+
+</script>
+
+
+
+
+
+        </div>
+
+        <footer id="foot">
+            <div class="fixed_col">
+                <div class="logo">|</div>
+
+                <h2>Design-driven companies worldwide use Coroflot to recruit exceptional talent.</h2>
+
+                <p>Connect with us to get new jobs and projects daily.</p>
+
+                <ul class="social_rack">
+                    <li>
+                        <a href="https://www.facebook.com/coroflot">7</a>
+                    </li>
+
+                    <li>
+                        <a href="https://www.pinterest.com/coroflot/">6</a>
+                    </li>
+
+                    <li>
+                        <a href="https://twitter.com/coroflot">R</a>
+                    </li>
+
+                    <li>
+                        <a href="https://www.instagram.com/coroflot/">I</a>
+                    </li>
+
+                    <li>
+                        <a href="https://www.linkedin.com/company/coroflot">n</a>
+                    </li>
+
+
+                </ul>
+            </div>
+            <div class="flex_col">
+                <ul class="col_wrap">
+                    <li class="col_1">
+                        <h2>Coroflot</h2>
+
+                        <ul>
+                            <li>
+                                <a href="/about" target="_blank">About Us</a>
+                            </li>
+                            <li>
+                                <a href="/faq" target="_blank">FAQ</a>
+                            </li>
+                            <li>
+                                <a href="/privacy" target="_blank">Privacy Policy</a>
+                            </li>
+                            <li>
+                                <a href="/terms" target="_blank">Terms of Use</a>
+                            </li>
+                            <li>
+                                <a href="/contact" target="_blank">Contact Us</a>
+                            </li>
+
+                            <li>
+                                <a href="/blog" target="_blank">Blog</a>
+                            </li>
+                        </ul>
+                    </li>
+
+                    <li class="col_2">
+                        <h2>Hiring Tools</h2>
+
+                        <ul>
+                            <li>
+                                <a href="/hire-designers?utm_source=footer" target="_blank">Post a Job</a>
+                            </li>
+                            <li>
+                                <a href="/hire-designers?utm_source=footer" target="_blank">Find Designers</a>
+                            </li>
+                            <li>
+                                <a href="/job-network?utm_source=footer" target="_blank">Job Network</a>
+                            </li>
+                            <li>
+                                <a href="/designsalaryguide?utm_source=footer" target="_blank">Design Salary Guide</a>
+                            </li>
+                        </ul>
+                    </li>
+
+                    <li class="jobs_col">
+                        <h2>Latest Design Jobs</h2>
+
+                        <ul>
+<li>
+                                
+                                <a href="https://www.coroflot.com/design-jobs/Lecturer-in-Graphic-Design-University-of-Florida-School-of-Art-Art-History-Gainesville-FL-240741?utm_source=footer_jobs&utm_medium=coroflot" style="background-image: url(https://s3images.coroflot.com/user_files/job_logos/240741_er0fbf77kpavvxu0hjrm4oj6_.jpg);">
+
+                                    <h2>Lecturer in Graphic Design</h2>
+                                    <p>University of Florida, School of Art + Art History</p>
+                                </a>
+                            </li>
+<li>
+                                
+                                <a href="https://www.coroflot.com/design-jobs/Remote-Design-Intern-Lina-Mayorga-New-York-NY-240720?utm_source=footer_jobs&utm_medium=coroflot" style="background-image: url(https://s3images.coroflot.com/user_files/job_logos/240720_aytxrq09o4axphl9sqyuacdfq.jpg);">
+
+                                    <h2>Remote Design Intern</h2>
+                                    <p>Lina Mayorga</p>
+                                </a>
+                            </li>
+
+                        </ul>
+
+                        <p><a href="http://feeds.feedburner.com/Coroflot/AllJobs"><span>%</span> Design Jobs RSS</a></p>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="full_foot">
+                &copy; 2020 Core77, Inc.
+            </div>
+
+            
+            
+        </footer>
+        <!--[if lte IE 6]>
+            <div id="ie6">
+                <p>This website does <strong>not</strong> fully support Internet Explorer 6. Your general web browsing experience will be much improved if you upgrade for free to <a href="http://www.microsoft.com/windows/products/winfamily/ie/default.mspx">Internet Explorer 9</a> or <a href="www.google.com/chrome">Google Chrome</a>.</p>
+            </div>
+            <![endif]-->
+    </div>
+
+
+    <script src="/javascripts/library/base_library.min.js?v=275"></script>
+
+    <script src="/javascripts/library/site_search.min.js?v=275"></script>
+
+
+
+    <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+    <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+
+
+    
+    <script type="text/javascript" src="/javascripts/slick-1.5.7/slick/slick.js"></script>
+    <link rel="stylesheet" type="text/css" href="/javascripts/slick-1.5.7/slick/slick.css" />
+
+
+
+
+
+    <script src="/javascripts/library/application.min.js?v=275"></script>
+
+
+
+    <script>
+        $(function () {
+            var global_coroflot_actions = new Coroflot_Site_Base();
+            global_coroflot_actions.init();
+
+        });
+    </script>
+
+    
+
+
+
+
+
+</body>
+</html>
